@@ -50,6 +50,3 @@
  
  <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=lala7202&theme=react-dark)](https://github.com/lala7202/github-readme-activity-graph)
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lala7202&theme=dark&layout=compact&align=right&width=40%)](https://github.com/lala7202/github-readme-stats)
