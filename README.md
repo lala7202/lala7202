@@ -10,7 +10,7 @@
 
 *You can call me a web designer, front-end developer, creative writer, Softare Engineer  or by any other similar function-title. I'm also a multi-disciplinary maker with experiences in design disciplines, front-end developer, open source contributor, community moderator, mentor, campus ambassador, blogger, creative writter, tech enthusiast, traveler and more.*
 
-<img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
 
 - ☁ I'm a <a href="https://cloud.google.com/">Google Cloud Ready Facilitator</a>.
